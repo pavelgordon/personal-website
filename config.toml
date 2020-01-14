@@ -57,15 +57,21 @@ disqusShortname = "yourdiscussshortname"
     url = "https://t.me/freemahn"
 
 # Menu links
+#[[menu.main]]
+#    name = "Blog"
+#    weight = 1
+#    url  = "/posts/"
+
 [[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/posts/"
+    name = "About me"
+    weight = 2
+    url = "/about/"
 [[menu.main]]
     name = "Projects"
-    weight = 2
-    url = "/projects/"
-[[menu.main]]
-    name = "About"
     weight = 3
-    url = "/about/"
+    url = "https://github.com/pavelgordon"
+#    url = "/projects/"
+[[menu.main]]
+    name = "CV"
+    weight = 4
+    url = "/Pavel_Gordon_Resume.pdf"

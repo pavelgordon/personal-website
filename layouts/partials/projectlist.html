@@ -1,0 +1,24 @@
+<section class="container list">
+  <h1 class="title">
+    {{- if eq .Kind "taxonomy" -}}
+      {{- i18n .Data.Singular | title -}}
+      {{- print ": " -}}
+    {{- end -}}
+
+    {{- .Title -}}
+  </h1>
+  <ul>
+    {{ range .Paginator.Pages }}
+    <li>
+      <span class="date">{{ dateFormat "Jan 2006" .Params.startDate }} - {{ dateFormat "Jan 2006" .Params.endDate }}</span>
+       
+      <a class="title" href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>
+      <span> {{.Content }} </span>
+    </li>
+    {{ end }}
+  </ul>
+  {{ partial "pagination.html" . }}
+</section>
+
+
+bookong popcess context
