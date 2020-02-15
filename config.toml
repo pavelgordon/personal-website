@@ -12,6 +12,8 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+enableRobotsTXT = true
+
 disqusShortname = "yourdiscussshortname"
 
 [params]
