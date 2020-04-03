@@ -1,17 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://pgordon.dev/about/</loc>
+    <lastmod>2019-10-20T14:05:13+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://pgordon.dev/</loc>
+    <lastmod>2019-10-20T14:05:13+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://pgordon.dev/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pgordon.dev/tags/</loc>
   </url>
   
 </urlset>

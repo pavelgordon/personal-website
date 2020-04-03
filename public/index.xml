@@ -1,14 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pavel Gordon</title>
-    <link>http://www.example.com/</link>
+    <link>https://pgordon.dev/</link>
     <description>Recent content on Pavel Gordon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 20 Oct 2019 14:05:13 +0200</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pgordon.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://pgordon.dev/about/</link>
+      <pubDate>Sun, 20 Oct 2019 14:05:13 +0200</pubDate>
+      
+      <guid>https://pgordon.dev/about/</guid>
+      <description>Hey! My name is Pavel Gordon. I am a backend (Java/Kotlin) software engineer with 4+ years of professional experience and passion for clean and performant code. I build distributed, robust and fault-tolerant services for businesses.
+ Born in Russia, life brought me to Hamburg, where I write code for FreeNOW(former myTaxi), biggest European ride-hailing app. As an engineer in allocation team, I constantly improve our dispatching system - reduce waiting time for passengers, optimize the distribution of tours in different markets.</description>
+    </item>
     
   </channel>
 </rss>

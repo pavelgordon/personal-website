@@ -10,4 +10,5 @@ My name is Pavel Gordon. I am a backend (Java/Kotlin) software engineer with 4+ 
 
   I always push myself to be a better developer and stay up to date with the latest technology trends. I participate and (occasionally) win at hackathons, visit various IT conferences across the globe. 
 
-In my free time I travel across the world, play videogames and learn new languages.
+In my free time I learn new languages(currently Italian) and write small apps like 
+[ObjectRandomizer](https://objectrandomizer.pgordon.dev/static/index.html)
